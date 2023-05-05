@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: #f1f5f9;
+  width: 100%;
+  padding: 10px;
+  padding-inline: 5%;
+}
+
+.website-logo {
+  width: 25%;
+  max-width: 150px;
+}

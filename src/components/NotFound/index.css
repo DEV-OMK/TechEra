@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.not-found-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.not-found-image {
+  width: 60%;
+}
+
+.not-found-title {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: 600;
+  color: #475569;
+}
+
+.caption {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  color: #64748b;
+}
